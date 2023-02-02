@@ -30,5 +30,5 @@ Feel free to reach out to me on:
 - LinkedIn: [insert username here](insert link here)
 
 ## Footer
-Visitors to my profile: [![Visitor Count](https://profile-counter.glitch.me/{insert username here}/count.svg)](https://profile-counter.glitch.me/{insert username here})
+Visitors to my profile: [![Visitor Count](https://profile-counter.glitch.me/{insert username here}/count.svg)](https://profile-counter.glitch.me/{ahmedhamila})
 
