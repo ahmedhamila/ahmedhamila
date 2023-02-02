@@ -25,10 +25,15 @@ Hi, I am a Software Engineering student at ISIMM (High Institute of Informatics 
 
 ## Contact
 Feel free to reach out to me on:
-- Instagram: [insert username here](insert link here)
-- Facebook: [insert username here](insert link here)
-- LinkedIn: [insert username here](insert link here)
+<a href="https://www.instagram.com/ahmed_hamila_/">
+  <img align="left" alt="Ahmed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.facebook.com/ahmed.hamila66">
+  <img align="left" alt="Ahmed's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" />
+</a>
+<a href="https://www.linkedin.com/in/ahmed-hamila-98a2a71bb/">
+  <img align="left" alt="Ahmed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-## Footer
-Visitors to my profile: [![Visitor Count](https://profile-counter.glitch.me/{ahmedhamila}/count.svg)](https://profile-counter.glitch.me/{ahmedhamila})
+![](https://visitor-badge.glitch.me/badge?page_id=ahmedhamila.ahmedhamila)
 
