@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhamila&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhamila" /> </p>
 
-- 🔭 I’m currently working on [Isimmmooc](https://github.com/ahmedhamila/Isimmmooc)
+- 🔭 I’m currently working on [Isimm](https://github.com/ahmedhamila/Distribution-Charge-FrontEnd)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **ThreeJs**
 
 - 📫 How to reach me **csahmed17@gmail.com**
 
