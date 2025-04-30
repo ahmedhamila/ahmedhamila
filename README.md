@@ -52,7 +52,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-logo-icon.svg" alt="Supabase" width="40" height="40"/>
   </a>
 </p>
 
